@@ -1,0 +1,1796 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kerry, Ireland",
+          "Kerry, Kerry, Ireland",
+          "Kerry Ireland",
+          "kerry Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Ireland",
+          "ireland",
+          "IRELAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ireland"
+      },
+      {
+        "from": [
+          "Ireland, Co. Meath",
+          "Co Meath Ireland",
+          "Co Meath, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ireland, Co. Meath"
+      },
+      {
+        "from": [
+          "Dublin, Dublin, Ireland",
+          "Dublin, Ireland",
+          "Dublin  Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Carlow, Ireland",
+          "Carlow, Carlow, Ireland",
+          "Carlow Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlow, Ireland"
+      },
+      {
+        "from": [
+          "The Hague, South Holland, Netherlands",
+          "The Hague, South Holland, The Netherlands"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Hague, South Holland, Netherlands"
+      },
+      {
+        "from": [
+          "Kilkenny, County Kilkenny, Ireland",
+          "County Kilkenny, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kilkenny, County Kilkenny, Ireland"
+      },
+      {
+        "from": [
+          "Zürich, Zurich, Switzerland",
+          "Zurich, Zurich, Switzerland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zürich, Switzerland"
+      },
+      {
+        "from": [
+          "County Kerry, Ireland",
+          "County Kerry, IRELAND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Meath, Meath, Ireland",
+          "Meath, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Meath, Ireland"
+      },
+      {
+        "from": [
+          "Dun Laoghaire, County Dublin, Ireland",
+          "Dún Laoghaire, County Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dun Laoghaire, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Roscommon, Roscommon, Ireland",
+          "Roscommon, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roscommon, Ireland"
+      },
+      {
+        "from": [
+          "Singapore",
+          "Singapore, Singapore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Singapore"
+      },
+      {
+        "from": [
+          "Donegal, Donegal, Ireland",
+          "Donegal, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Donegal, Ireland"
+      },
+      {
+        "from": [
+          "Auckland, New Zealand",
+          "Auckland, Auckland, New Zealand"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Auckland, New Zealand"
+      },
+      {
+        "from": [
+          "County Clare, Ireland",
+          "County Clare, Ireland."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Mayo, Ireland",
+          "Mayo, Mayo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mayo, Ireland"
+      },
+      {
+        "from": [
+          "Brussels, Brussels, Belgium",
+          "Brussels, Belgium"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brussels, Belgium"
+      },
+      {
+        "from": [
+          "County Roscommon, Ireland",
+          "Roscommon, County Roscommon, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Roscommon, Ireland"
+      },
+      {
+        "from": [
+          "Leitrim, Leitrim, Ireland",
+          "Leitrim, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leitrim, Ireland"
+      },
+      {
+        "from": [
+          "UK",
+          "Uk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UK"
+      },
+      {
+        "from": [
+          "Buenos Aires, Argentina",
+          "Buenos Aires, Buenos Aires, Argentina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Buenos Aires, Argentina"
+      },
+      {
+        "from": [
+          "Co Galway Ireland",
+          "Co. Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Galway Ireland"
+      },
+      {
+        "from": [
+          "Santiago Metropolitan Region, Chile",
+          "Santiago, Santiago Metropolitan Region, Chile"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Santiago, Chile"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Co. Clare, Ireland",
+          "Co.Clare Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Mullingar, County Westmeath, Ireland",
+          "Mullingar, County West Meath, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mullingar, County Westmeath, Ireland"
+      },
+      {
+        "from": [
+          "County Galway, Ireland",
+          "County Galway Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Galway, Ireland"
+      },
+      {
+        "from": [
+          "Co Kerry",
+          "Co.Kerry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "County Kerry"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tralee Rd, County Kerry, Ireland",
+          "Tralee Road, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tralee Rd, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Collooney, County Sligo, Ireland",
+          "Coolaney, County Sligo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Collooney, County Sligo, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Amsterdam, North Holland, Netherlands",
+          "Amsterdam, Noord-Holland, Netherlands",
+          "Amsterdam, Noord-Holland, The Netherlands"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amsterdam, North Holland, Netherlands"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ireland",
+          "Irlanda"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ireland"
+      },
+      {
+        "from": [
+          "Limerick, Limerick, Ireland",
+          "Limerick, Co. Limerick, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Limerick, County Limerick, Ireland"
+      },
+      {
+        "from": [
+          "Dublin",
+          "Dublin IE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dublin"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dublin, Co. Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dublin, County Dublin, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dublin, County Dublin, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dublin, Leinster, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dublin, County Dublin, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Miltown Malbay, Clare, Ireland",
+          "Miltown Malbay, County Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miltown Malbay, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Ballinskelligs, Kerry, Ireland",
+          "Ballinskelligs, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballinskelligs, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Tourmakeady, County Mayo, Ireland",
+          "Toormakeady, County Mayo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tourmakeady, County Mayo, Ireland"
+      },
+      {
+        "from": [
+          "Ballymore Eustace, Kildare, Ireland",
+          "Ballymore Eustace, County Kildare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballymore Eustace, County Kildare, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Castlemartyr, County Cork, Ireland",
+          "Castlemartyr, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castlemartyr, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Lisdoonvarna, County Clare, Ireland",
+          "Lisdoonvarna, Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lisdoonvarna, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Kinvarra, County Galway, Ireland",
+          "Kinvara, County Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kinvarra, County Galway, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Trento, Trentino-Alto Adige/South Tyrol, Italy",
+          "Trento, Trentino-South Tyrol, Italy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Trento, Italy"
+      },
+      {
+        "from": [
+          "Windsor and Maidenhead, England, United Kingdom",
+          "Windsor and Maidenhead, United Kingdom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Windsor and Maidenhead, England, United Kingdom"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "İstanbul, İstanbul, Turkey",
+          "Istanbul, İstanbul, Turkey"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "İstanbul, İstanbul, Turkey"
+      },
+      {
+        "from": [
+          "Claregalway, County Galway, Ireland",
+          "Claregalway, Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claregalway, County Galway, Ireland"
+      },
+      {
+        "from": [
+          "Dunmanway, County Cork, Ireland",
+          "Dunmanway, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dunmanway, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Millstreet, Cork, Ireland",
+          "Millstreet, County Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Millstreet, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Skibbereen, County Cork, Ireland",
+          "Skibbereen, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Skibbereen, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Ballybunnion, County Kerry, Ireland",
+          "Ballybunion, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballybunnion, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Clonskeagh, County Dublin, Ireland",
+          "Clonskeagh, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Clonskeagh, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Drimoleague, County Cork, Ireland",
+          "Drimoleague, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Drimoleague, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Blessington, Wicklow, Ireland",
+          "Blessington, County Wicklow, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blessington, County Wicklow, Ireland"
+      },
+      {
+        "from": [
+          "Prague, Prague, Czech Republic",
+          "Prague, Prague, Czechia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Prague, Prague, Czech Republic"
+      },
+      {
+        "from": [
+          "Letterfrack, County Galway, Ireland",
+          "Letterfrack, Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Letterfrack, County Galway, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ballybunnion, County Kerry, Ireland",
+          "Ballybunion, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballybunnion, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "İstanbul, İstanbul, Turkey",
+          "Istanbul, İstanbul, Turkey"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "İstanbul, İstanbul, Turkey"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baltimore, Cork, Ireland",
+          "Baltimore, County Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baltimore, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Rosses Point, County Sligo, Ireland",
+          "Rosses Point, Sligo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rosses Point, County Sligo, Ireland"
+      },
+      {
+        "from": [
+          "Sandymount, Dublin, Ireland",
+          "Sandymount, County Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sandymount, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Kilmacanoge, County Wicklow, Ireland",
+          "Kilmacanogue, Co. Wicklow, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kilmacanoge, County Wicklow, Ireland"
+      },
+      {
+        "from": [
+          "Dunmore East, County Waterford, Ireland",
+          "Dunmore East, Waterford, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dunmore East, County Waterford, Ireland"
+      },
+      {
+        "from": [
+          "Glasnevin, County Dublin, Ireland",
+          "Glasnevin, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glasnevin, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Oldcastle, County Meath, Ireland",
+          "Oldcastle, Meath, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oldcastle, County Meath, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dungarvan, County Waterford, Ireland",
+          "Dungarvan, Waterford, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dungarvan, County Waterford, Ireland"
+      },
+      {
+        "from": [
+          "Bealaclugga, Clare, Ireland",
+          "Bealaclugga, County Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bealaclugga, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Tallanstown, County Louth, Ireland",
+          "Tallanstown, Louth, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tallanstown, County Louth, Ireland"
+      },
+      {
+        "from": [
+          "Blackwater, County Wexford, Ireland",
+          "Blackwater, Wexford, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blackwater, County Wexford, Ireland"
+      },
+      {
+        "from": [
+          "Downings, County Donegal, Ireland",
+          "Downings, Donegal, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Downings, County Donegal, Ireland"
+      },
+      {
+        "from": [
+          "Kilgarvan, Kerry, Ireland",
+          "Kilgarvan, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kilgarvan, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Thomastown, County Kilkenny, Ireland",
+          "Thomastown, Kilkenny, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomastown, County Kilkenny, Ireland"
+      },
+      {
+        "from": [
+          "Clontarf, County Dublin, Ireland",
+          "Clontarf, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Clontarf, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Clondalkin, County Dublin, Ireland",
+          "Clondalkin, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Clondalkin, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Ballyvaughan, Clare, Ireland",
+          "Ballyvaughan, County Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballyvaughan, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Copenhagen, Capital Region of Denmark, Denmark",
+          "Copenhagen, Denmark"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Copenhagen, Denmark"
+      },
+      {
+        "from": [
+          "Ballaghaderreen, County Roscommon, Ireland",
+          "Ballaghaderreen, Roscommon, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballaghaderreen, County Roscommon, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Foulkesmill, County Wexford, Ireland",
+          "Foulksmills, County Wexford, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Foulkesmill, County Wexford, Ireland"
+      },
+      {
+        "from": [
+          "Ballindrait, County Donegal, Ireland",
+          "Ballintra, Donegal, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballindrait, County Donegal, Ireland"
+      },
+      {
+        "from": [
+          "Manorhamilton, County Leitrim, Ireland",
+          "Manorhamilton, Leitrim, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Manorhamilton, County Leitrim, Ireland"
+      },
+      {
+        "from": [
+          "Kilfenora, County Clare, Ireland",
+          "Kilfenora, Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kilfenora, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Rathfarnham, Dublin, Ireland",
+          "Rathfarnham, County Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rathfarnham, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Cloughjordan, County Tipperary, Ireland",
+          "Cloughjordan, Tipperary, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cloughjordan, County Tipperary, Ireland"
+      },
+      {
+        "from": [
+          "Oughterard, County Galway, Ireland",
+          "Oughterard, Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oughterard, County Galway, Ireland"
+      },
+      {
+        "from": [
+          "Greystones, County Wicklow, Ireland",
+          "Greystones, Wicklow, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Greystones, County Wicklow, Ireland"
+      },
+      {
+        "from": [
+          "Drumcliff, County Sligo, Ireland",
+          "Drumcliffe South, Sligo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Drumcliff, County Sligo, Ireland"
+      },
+      {
+        "from": [
+          "Garristown, County Dublin, Ireland",
+          "Garristown, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Garristown, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Kanturk, County Cork, Ireland",
+          "Kanturk, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kanturk, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Midleton, County Cork, Ireland",
+          "Midleton, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Midleton, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Timahoe, County Laois, Ireland",
+          "Tynagh, County Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Timahoe, County Laois, Ireland"
+      },
+      {
+        "from": [
+          "Strandhill, County Sligo, Ireland",
+          "Strandhill, Sligo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Strandhill, County Sligo, Ireland"
+      },
+      {
+        "from": [
+          "Rosscarbery, County Cork, Ireland",
+          "Rosscarbery, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rosscarbery, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Strokestown, Roscommon, Ireland",
+          "Strokestown, County Roscommon, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Strokestown, County Roscommon, Ireland"
+      },
+      {
+        "from": [
+          "Claremorris, County Mayo, Ireland",
+          "Claremorris, Mayo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claremorris, County Mayo, Ireland"
+      },
+      {
+        "from": [
+          "Mountshannon, Clare, Ireland",
+          "Mountshannon, County Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mountshannon, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Kilcolgan, Galway, Ireland",
+          "Kilcolgan, County Galway, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kilcolgan, County Galway, Ireland"
+      },
+      {
+        "from": [
+          "Bangor Erris, County Mayo, Ireland",
+          "Bangor Erris, Mayo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bangor Erris, County Mayo, Ireland"
+      },
+      {
+        "from": [
+          "Castlefinn, County Donegal, Ireland",
+          "Castlefinn, Donegal, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castlefinn, County Donegal, Ireland"
+      },
+      {
+        "from": [
+          "Ballinspittle, Cork, Ireland",
+          "Ballinspittle, County Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballinspittle, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Clonakilty, County Cork, Ireland",
+          "Clonakilty, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Clonakilty, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Castleconnell, County Limerick, Ireland",
+          "Castleconnell, Limerick, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castleconnell, County Limerick, Ireland"
+      },
+      {
+        "from": [
+          "Carndonagh, County Donegal, Ireland",
+          "Carndonagh, Donegal, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carndonagh, County Donegal, Ireland"
+      },
+      {
+        "from": [
+          "Castlemaine, Kerry, Ireland",
+          "Castlemaine, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castlemaine, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Castleknock, County Dublin, Ireland",
+          "Castleknock, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castleknock, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Irishtown, Dublin, Ireland",
+          "Irishtown, County Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Irishtown, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Knight's Town, County Kerry, Ireland",
+          "Knight's Town, Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Knight's Town, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Blennerville, County Kerry, Ireland",
+          "Blennerville, Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blennerville, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Ballyhaunis, County Mayo, Ireland",
+          "Ballyhaunis, Mayo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballyhaunis, County Mayo, Ireland"
+      },
+      {
+        "from": [
+          "Flagmount, County Clare, Ireland",
+          "Flagmount, Clare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Flagmount, County Clare, Ireland"
+      },
+      {
+        "from": [
+          "Caherdaniel, County Kerry, Ireland",
+          "Caherdaniel, Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Caherdaniel, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Tragumna, County Cork, Ireland",
+          "Tragumna Strand, Skibbereen, Co Cork"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tragumna, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Duncormick, Wexford, Ireland",
+          "Duncormick, County Wexford, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duncormick, County Wexford, Ireland"
+      },
+      {
+        "from": [
+          "England, United Kingdom",
+          "England"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "England, United Kingdom"
+      },
+      {
+        "from": [
+          "Northern Ireland, United Kingdom",
+          "Northern Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northern Ireland, United Kingdom"
+      },
+      {
+        "from": [
+          "Portmarnock, County Dublin, Ireland",
+          "Portmarnock, Dublin, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portmarnock, County Dublin, Ireland"
+      },
+      {
+        "from": [
+          "Enniscrone, County Sligo, Ireland",
+          "Enniscrone, Sligo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enniscrone, County Sligo, Ireland"
+      },
+      {
+        "from": [
+          "Mountmellick, County Laois, Ireland",
+          "Mountmellick, Laois, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mountmellick, County Laois, Ireland"
+      },
+      {
+        "from": [
+          "Ardfield, Cork, Ireland",
+          "Ardfield, County Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ardfield, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Killorglin, County Kerry, Ireland",
+          "Killorglin, Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Killorglin, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Lettermacaward, County Donegal, Ireland",
+          "Lettermacaward, Donegal, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lettermacaward, County Donegal, Ireland"
+      },
+      {
+        "from": [
+          "Ravensdale, County Louth, Ireland",
+          "Ravensdale, Louth, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ravensdale, County Louth, Ireland"
+      },
+      {
+        "from": [
+          "Carlingford, County Louth, Ireland",
+          "Carlingford, Louth, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlingford, County Louth, Ireland"
+      },
+      {
+        "from": [
+          "Ballyferriter Village, County Kerry, Ireland",
+          "Ballyferriter, County Kerry, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballyferriter Village, County Kerry, Ireland"
+      },
+      {
+        "from": [
+          "Ballydehob, County Cork, Ireland",
+          "Ballydehob, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ballydehob, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Celbridge, County Kildare, Ireland",
+          "Celbridge, Kildare, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Celbridge, County Kildare, Ireland"
+      },
+      {
+        "from": [
+          "Walsh Island, Offaly, Ireland",
+          "Walshisland, County Offaly, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Walshisland, County Offaly, Ireland"
+      },
+      {
+        "from": [
+          "Glengarriff, County Cork, Ireland",
+          "Glengarriff, Cork, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glengarriff, County Cork, Ireland"
+      },
+      {
+        "from": [
+          "Crossmolina, County Mayo, Ireland",
+          "Crossmolina, Mayo, Ireland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Crossmolina, County Mayo, Ireland"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_location",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Los Angeles, California, United States",
+          "Los Angeles County, California, United States"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Los Angeles, California, United States"
+      }
+    ],
+    "description": "Mass edit cells in column host_location"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_response_rate",
+    "expression": "grel:if(value.contains('%'),toNumber(value.substring(0,value.length()-1))/100.0,null)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_response_rate using expression grel:if(value.contains('%'),toNumber(value.substring(0,value.length()-1))/100.0,null)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_acceptance_rate",
+    "expression": "grel:if(value.contains('%'),toNumber(value.substring(0,value.length()-1))/100.0,null)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_acceptance_rate using expression grel:if(value.contains('%'),toNumber(value.substring(0,value.length()-1))/100.0,null)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_is_superhost",
+    "expression": "grel:if(value == 't', true, if(value == 'f', false, null))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_is_superhost using expression grel:if(value == 't', true, if(value == 'f', false, null))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_listings_count",
+    "expression": "grel:value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_listings_count using expression grel:value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_total_listings_count",
+    "expression": "grel:value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_total_listings_count using expression grel:value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_has_profile_pic",
+    "expression": "grel:if(value == 't', true, if(value == 'f', false, null))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_has_profile_pic using expression grel:if(value == 't', true, if(value == 'f', false, null))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_identity_verified",
+    "expression": "grel:if(value == 't', true, if(value == 'f', false, null))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_identity_verified using expression grel:if(value == 't', true, if(value == 'f', false, null))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "latitude",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column latitude using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "longitude",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column longitude using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "accommodates",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column accommodates using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "bedrooms",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column bedrooms using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "beds",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column beds using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "price",
+    "expression": "grel:if(value.contains('$'),value.substring(1,value.length()),null)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column price using expression grel:if(value.contains('$'),value.substring(1,value.length()),null)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "price",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column price using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_response_time",
+    "expression": "grel:if(value=='N/A',null, value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_response_time using expression grel:if(value=='N/A',null, value)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "bathrooms_text",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "bathroom_type",
+    "columnInsertIndex": 35,
+    "description": "Create column bathroom_type at index 35 based on column bathrooms_text using expression grel:value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "bathroom_type",
+    "expression": "grel:if(cells.room_type.value == 'Entire home/apt', 'Private',\n if(value.toUppercase().contains('PRIVATE'), 'Private',\n   if(value.toUppercase().contains('SHARED'), 'Shared', null)))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column bathroom_type using expression grel:if(cells.room_type.value == 'Entire home/apt', 'Private',\n if(value.toUppercase().contains('PRIVATE'), 'Private',\n   if(value.toUppercase().contains('SHARED'), 'Shared', null)))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "bathrooms_text",
+    "expression": "grel:if(value.toUppercase().contains('HALF-BATH'),'.5'.toNumber(),value.find(/[0-9].[0-9]*/)[0]).toNumber())",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column bathrooms_text using expression grel:if(value.toUppercase().contains('HALF-BATH'),'.5'.toNumber(),value.find(/[0-9].[0-9]*/)[0]).toNumber())"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "region_id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column region_id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "region_parent_id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column region_parent_id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "host_id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column host_id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scrape_id",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column scrape_id using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "price",
+    "expression": "grel:value.replace(',','')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column price using expression grel:value.replace(',','')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "price",
+    "expression": "grel:value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column price using expression grel:value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_accuracy",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_accuracy using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_rating",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_rating using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_cleanliness",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_cleanliness using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_checkin",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_checkin using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_communication",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_communication using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_location",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_location using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "review_scores_value",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column review_scores_value using expression value.toNumber()"
+  }
+]
