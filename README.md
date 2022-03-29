@@ -8,7 +8,8 @@ Then, the project is divided into four main sections: fetching the data, pre-pro
       1) Open JupyterLab
       2) Run src/dataInfastructure.ipynb
       3) Using OpenRefine, create a new project with data/initial_data/listings_complex.csv and run src/listings_complex_cleaning.json to perform cleaning steps.
-            a) Name the output data/cleaned_data/listings_complex.csv
+            a) Ensure the 'csv' setting is selected in OpenRefine
+            b) Name the output data/cleaned_data/listings_complex.csv
       4) Run src/EDA.ipynb
       5) Run src/ML.ipynb
 
