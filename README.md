@@ -13,4 +13,4 @@ Then, the project is divided into four main sections: fetching the data, pre-pro
       4) Run src/EDA.ipynb
       5) Run src/ML.ipynb
 
-Alternatively, to only review the results view EDA.html and ML.html.
+Alternatively, to only review the results download and view the EDA.html and ML.html in the webbrowser of your choice.
